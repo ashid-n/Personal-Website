@@ -34,8 +34,26 @@ export const ProjectList = [
     description:
       "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
     tech_stack: ["ReactJs", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/Pokedex-ReactApp",
+    github_url: "#",
     demo_url: "https://pokedex-salesp07.netlify.app/",
+  },
+    {
+    img: "/dr.png",
+    title: "Doctor Appointment Booking",
+    description:
+      "A doctor appointment booking app that allows users to book appointments with doctors.",
+    tech_stack: ["ReactJs", "NodeJs", "MongoDB"],
+    github_url: "https://github.com/ashid-n/Doctor-Appointment-Booking.git",
+    demo_url: "#",
+  },
+      {
+    img: "/trm.png",
+    title: "Travel Management System",
+    description:
+      "A travel management system that allows users to book travel packages and manage reservations.",
+    tech_stack: ["ReactJs", "NodeJs", "MongoDB"],
+    github_url: "https://github.com/ashid-n/Tour-Management.git",
+    demo_url: "#",
   },
 
 ];
